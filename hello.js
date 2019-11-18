@@ -3,3 +3,5 @@ console.log('print num=',i);
 } 
 
 console.log('finished');
+console.log('finished12');
+
